@@ -1,7 +1,7 @@
 # <center> JOURNAL 2 </center>
 <ol>
 <li>What is a Pseudo-Class and what are some of the most common ones you think you will use?</li>
-<ul><li>A psuedo-class is when you use a : after a selector.</li>
+<ul><li>A pseudo-class is when you use a : after a selector.</li>
 <li>Some common ones that were stated in the article are :after, :before, and :hover.</li></ul>
 
 <li>What is Specificity and how might you use it to your benefit?</li>
