@@ -1,5 +1,4 @@
-
-# <center>JOURNAL 2</center>
+# Pseudo-Class and Specificity
 
 ## What is a Pseudo-Class and what are some of the most common ones you think you will use?
 <ul><li>A pseudo-class is when you use a : after a selector.</li>

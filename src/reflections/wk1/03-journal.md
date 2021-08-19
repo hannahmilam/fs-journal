@@ -1,4 +1,4 @@
-# <center>JOURNAL 3</center>
+# Cheating at Design
 
 ## What is your favorite tip that you think is the most beneficial to improving your design?
 

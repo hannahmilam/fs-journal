@@ -1,4 +1,4 @@
-# <center>JOURNAL 4</center>
+# Wire-Framing
 
 ## What is the purpose of wire-framing?
 
