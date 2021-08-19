@@ -12,10 +12,8 @@
     "build": "vuepress build src"
   },
   "license": "MIT",
-  "devDependencies": {
-    "vuepress": "^1.5.3"
-  },
   "dependencies": {
+    "vuepress": "^1.5.3",
     "@mr-hope/vuepress-plugin-sitemap": "^1.5.5",
     "@vuepress/plugin-back-to-top": "^1.7.1",
     "@vuepress/plugin-medium-zoom": "^1.7.1",
