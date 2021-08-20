@@ -10,3 +10,7 @@ The high-fidelity is essentially what your website will look like with all of th
 
 ## Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
 Yes I absolutely do because getting your framework down before adding all of the colors and little details is so important. If you try to figure out your framework as you go you will spend so much more time de-bugging or trying to change what you already did because you decided you wanted the basic framework of the website to be changed.
+
+## Afternoon challenge 
+8/19/21 -- site clone
+https://hannahmilam.github.io/den-of-geeks

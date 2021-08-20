@@ -12,3 +12,7 @@
 <ul><li>The problems that I could run into would be if I was continually defaulting to !important versus using classes or ids to increase my specificity is that it's not something that can be overruled. </li>
 <li>!Important can be bad because if you label something that high of a specificity and then decide to go in and make changes, they will not work because no matter how high the specificity is, where it says !important will always be what is printed on the screen.
 </li></ul>
+
+## Afternoon Challenge
+8/17/21 cool-site
+https://hannahmilam.github.io/cool-site

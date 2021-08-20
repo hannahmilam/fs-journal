@@ -8,3 +8,8 @@ Figma, first and foremost, but also Adobe XD is an option as well. These will de
 
 ## How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
 A good design is going to increase the value of the website, the company, and materials alone. When something is visually appealing people feel happier and want to spend their money on that product. If the website looks basic, and not very aesthetically pleasing they are going to associate that negative connotation with their product as well. 
+
+## Afternoon Challenge
+8/18/21 site clone, smiley face, and grid.
+(the smiley face & grid are saved on my computer but not posted to github)
+https://hannahmilam.github.io/site-clone
