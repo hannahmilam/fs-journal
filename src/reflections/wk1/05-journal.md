@@ -1,0 +1,4 @@
+## Overview
+
+This week I have learned so much that I'm blown away. I have learned a lot about HTML, CSS, bootstrap, figma, and more. I was extremely worried coming into the program that I would fall behind and not be able to keep up with the rest of the class. I don't have that fear after this week. I love how this program is setup and that everyday you learn something new, and continue to build on those skills. Rather than learning something new and not using it for a while. I feel that it has helped me retain information and be able to grow my skills so much faster.
+I am still struggling with the @media rules, but after this challenge I feel a lot more confident about it.
