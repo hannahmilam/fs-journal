@@ -1,4 +1,4 @@
-## Java Script
+## LET/CONST/VAR
 
 # What is Scope?
 Scope is where the variables are available for use. If you define a variable outside of a {} then it is a global scope. If you define a variable inside a {} it is a function scope.
