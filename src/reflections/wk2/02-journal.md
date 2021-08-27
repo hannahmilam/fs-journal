@@ -8,6 +8,7 @@ Function expressions cannot be hoisted, so they cannot be used before they are d
 The difference between parameters and arguments are that parameters are used when defining a function, and then arguments are the values the function receives from each parameter when the function is executed.
 
 # What are higher order functions? Can you provide an example?
+Higher order functions are functions that accept functions as parameters and returns a function. forEach is an example of a high order function. 
 
 # afternoon challenge: 
 https://hannahmilam.github.io/js-tests-loops-and-arrays/
