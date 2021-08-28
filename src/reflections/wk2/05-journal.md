@@ -1,1 +1,2 @@
-## Overview
+## Reflection
+This week we learned about javascript, functions, objects, dictionaries and more. I am feeling great about conditionals and for loops. I am still really needing help understanding how to write re-usable code. I am constantly repeating myself. I feel like if I had more training or coaching on it, I wouldn't feel so anxious after writing my initial code to then go back in to refracture it in a way that is re-usable. I get too worried that I have spent so much time making it work, that if I try to improve it then it will just break. I do feel that if I could get more one on one time with this topic then I might not feel so nervous about even trying to refracture my code.

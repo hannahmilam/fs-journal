@@ -10,5 +10,5 @@ Ask for help and google! Always research what you are stuck on.
 My biggest take away from this article is that I really need to work on cleaning up my code and by doing this I need to really dig deep and learn what the alternative answers are to my problems.
 
 # afternoon challenge:
-Parter project with Cam
+Partner project with Cam
 https://cameronolson.github.io/slap-game/
