@@ -8,3 +8,5 @@ If we attach promises to callbacks instead of passing them through, it will look
 
 # What is the difference between .then() and .catch()?
 The .then() method is used after a promise is resolved, and a .catch() method is used in case the promise is rejected. You can use the .catch() method after the .then() method as well, that way if the promise is rejected it jumps right over to the .catch().
+
+afternoon challenge: https://github.com/hannahmilam/fall21-gregslist
