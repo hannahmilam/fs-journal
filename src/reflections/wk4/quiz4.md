@@ -13,18 +13,17 @@ It listens and waits for an event to occur.
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
-
 The open-closed principle.
 ```
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->
 ```
-
+Callbacks are functions. Higher order functions are functions that are passed into other functions as parameters.
 ```
 **5.** What is a `promise`? How do you capture an error from a `promise`?
 <!-- enter you answer in the space below -->
 ```
-
+A promise is a guarantee that there will be two outcomes, either it fails or is successful. You capture an error from a promise by using the .catch() method.
 ```
 **6.** Name three processes used to make requests over `HTTP`?
 <!-- enter you answer in the space below -->
