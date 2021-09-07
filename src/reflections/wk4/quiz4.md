@@ -3,17 +3,18 @@
 **1.** What is the difference between `asynchronous` code and `synchronous` code?
 <!-- enter you answer in the space below -->
 ```
-
+Synchronous is when something is done one at a time, and only when the code is completed. Asynchronous you can move onto another task while another task is still trying to finish executing.
 ```
 **2.** What is an event listener?
 <!-- enter you answer in the space below -->
 ```
-
+It listens and waits for an event to occur. 
 ```
 **3.** What does the `O` represent in the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
 
+The open-closed principle.
 ```
 **4.** What is a callback / higher order function?
 <!-- enter you answer in the space below -->
