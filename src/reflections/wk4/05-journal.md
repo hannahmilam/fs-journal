@@ -1,0 +1,2 @@
+## Reflections
+This week was super fun with the API's. I have loved getting more and more into javascript and feeling more confident about it. I also really loved not having to supply all of the data onto a page, because the API was supplying the data for me.

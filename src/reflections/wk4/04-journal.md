@@ -8,3 +8,6 @@ Stateless means that the server does not remember anything about the user who us
 
 # What URL pattern is used when writing a RESTful API?
 Endpoint URL
+
+afternoon challenge: https://hannahmilam.github.io/ItuneV2/
+was partnered with Quinn
