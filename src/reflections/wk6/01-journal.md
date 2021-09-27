@@ -8,3 +8,5 @@ It is so much easier to have your controller, view, and css tools inside one pag
 
 ## What are some drawbacks to Component based architecture?
 It can cause a lot of information inside one file. 
+
+afternooon challenge: https://hannahmilam.github.io/vue-playground/

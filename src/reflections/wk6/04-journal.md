@@ -8,3 +8,5 @@ I might use a nested route if I wanted to go to a users/profile/posts. This woul
 
 ## Can you pass parameters through nested routes? When might you use them?
 You can definitely pass parameters through nested routes. An example is when we used /:id parameter for accessing a specific users profile for this weeks checkpoint.
+
+afternoon challenge: https://kylemhanna.github.io/Blogpost/

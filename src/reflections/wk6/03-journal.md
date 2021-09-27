@@ -9,3 +9,5 @@ Lifecycle hooks are used to know when your component is created, added to the DO
 ## What are mounting hooks? When might you use them?
 Mounting hooks allow you to access your component immediately before and after the first render. 
 They are the most often used hooks. You would use them if you want to access or modify the DOM of your component immediately before or after the initial render. 
+
+afternoon challenge: https://hannahmilam.github.io/gregslist-vue/
