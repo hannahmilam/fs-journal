@@ -8,3 +8,5 @@ Benefits of partner programming are that you have two brains working together. E
 
 ## What are some drawbacks to Pair Programming?
 Sometimes it can take longer since you have two people that have to agree on things versus just you doing what you would like to do. Merge conflicts can cause a huge headache, which you wouldn't have if you were working by yourself.
+
+afternoon challenge: https://github.com/JacksonSchacher/NotTrello
