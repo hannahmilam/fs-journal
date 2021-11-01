@@ -1,0 +1,5 @@
+
+User-agent:*
+Disallow:
+
+Sitemap: https://hannahmilam.github.io/fs-journal/fs-journal/sitemap.xml
