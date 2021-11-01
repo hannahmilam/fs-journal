@@ -8,3 +8,5 @@ Extending properties to your class from the parent class. This helps remove repe
 
 ## How does accessibility affect inheritance?
 If a class is public then everything can access it, if it's private only that class can access it, and if it's internal then anything in that application can access it.
+
+afternoon challenge: https://github.com/hannahmilam/Vacay

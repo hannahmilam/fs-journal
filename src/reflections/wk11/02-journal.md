@@ -37,3 +37,5 @@ SELECT *
 FROM patients p
 JOIN doctors d ON p.doctorId = d.id
 WHERE p.id = @doctorId
+
+afternoon challenge: I was absent due to my husband's injury. I did not complete the afternoon challenge
